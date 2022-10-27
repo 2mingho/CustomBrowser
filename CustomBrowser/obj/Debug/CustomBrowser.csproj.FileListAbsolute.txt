@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\bin\Debug\CustomBrowser.exe.config
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\bin\Debug\CustomBrowser.exe
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\bin\Debug\CustomBrowser.pdb
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.Properties.Resources.resources
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.exe
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.pdb
+C:\Users\domin\source\repos\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.BrowserForm.resources
